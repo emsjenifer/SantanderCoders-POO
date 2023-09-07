@@ -1,6 +1,6 @@
 # 1004-santander-coders
 
-Lista com 50 exercícios práticos sobre orientação a objetos em TypeScript.
+Lista com 30 exercícios práticos sobre orientação a objetos em TypeScript.
 
 **Exercícios Básicos:**
 1. Crie uma classe chamada `Person` com propriedades `name` e `age`. Instancie alguns objetos dessa classe.
